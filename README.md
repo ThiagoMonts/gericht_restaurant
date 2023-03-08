@@ -1,3 +1,10 @@
+https://youtu.be/4oV65GVVits
+
+https://github.com/adrianhajdin/project_modern_ui_ux_restaurant
+
+https://www.figma.com/file/yvClSI9AZBRX8UaaGEByF3/Modern-UI%2FUX%3A-Gericht?node-id=0-1&t=8njzwVslhzbcj8R2-0
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
