@@ -65,7 +65,7 @@ $ npm start
 
 ## 🔖 Layout
 
-Você pode acessar o site através [DESSE LINK](https://thiagomonts-gericht_restaurant.vercel.app/).
+Você pode acessar o site através [DESSE LINK](https://thiagomonts-gericht.vercel.app/).
 
 Caso prefira, você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/yvClSI9AZBRX8UaaGEByF3/Modern-UI%2FUX%3A-Gericht?node-id=0-1&t=8njzwVslhzbcj8R2-0).
 
